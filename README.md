@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Mohamed Mahmoud 👋
 
-<!--
-**Mohamed-M-El-Sayed/Mohamed-M-El-Sayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Software Engineer | .NET Developer
 
-Here are some ideas to get you started:
+🎓 Computer and Information Science Graduate | Mansoura University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about backend development and building maintainable, scalable applications using C# and .NET.
+
+I enjoy exploring software architecture, design patterns, and backend engineering best practices.
+
+---
+
+### 🛠️ Tech Stack
+
+| **Category**              | **Technologies**                                                        |
+| ------------------------- | ----------------------------------------------------------------------- |
+| **Backend**               | .NET 8, ASP.NET Core Web API, EF Core, gRPC, Hangfire, Identity, JWT    |
+| **Architecture**          | Clean Architecture, CQRS, 3-Tier Architecture, Repository, Unit of Work, Specification Pattern |
+| **Databases & Caching**   | MS SQL Server, Redis, Memory Caching                                   |
+| **Principles & Patterns** | SOLID, Design Patterns, DRY, Separation of Concerns                    |
+| **Tools**                 | Git, GitHub, Swagger / OpenAPI                                         |
+
+---
+
+### 🚀 Featured Projects
+
+#### [Buyvia](https://github.com/Mohamed-M-El-Sayed/Buyvia)
+
+An e-commerce backend built with ASP.NET Core, focusing on Clean Architecture, maintainability, and scalable API development.
+
+#### [BookStore.VerticalSlice](https://github.com/Mohamed-M-El-Sayed/BookStore.VerticalSlice)
+
+A bookstore backend project exploring Vertical Slice Architecture and CQRS.
+
+---
+
+### 📚 Currently Learning
+
+- Advanced ASP.NET Core
+- Software Design Patterns
+- System Design
+- Scalable Backend Architecture
+
+---
+
+### 📫 Connect With Me
+
+- GitHub: [Mohamed-M-El-Sayed](https://github.com/Mohamed-M-El-Sayed)
+- LinkedIn: [Add your LinkedIn URL]
+- Email: [Add your professional email]
